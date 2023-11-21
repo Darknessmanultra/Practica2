@@ -9,6 +9,7 @@
 
 ## Levantar proyecto
 
+-Utilize una terminal y coloque "composer install" debido a que falta la carpeta vendor
 -Utilize una terminal y coloque "npm run dev"
 -Utilize una segunda terminal y coloque "php artisan serve" y sigue el link
 
